@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying **Statistics/Machine Learning and Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **Data Science/Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning/Software Development Projects**
 
 - 📫 How to reach me **shivumpandove@gmail.com**
 
