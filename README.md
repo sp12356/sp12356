@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shivum</h1>
 <h3 align="center">An innovative Carnegie Mellon student</h3>
 
-- 🔭 I’m currently studying **Statistics/Machine Learning and Artificial Intelligence**
-
-- 👯 I’m looking to collaborate on **Machine Learning/Software Development Projects**
+I'm a rising Junior at Carnegie Mellon studying Statistics/Machine Learning and Computer Science. I've built numerous independent and group large scale software/ML projects which I will continue to add to this GitHub. I'm largely interested in Machine Learning, Full-Stack Software Development, and Systems. I look forward to creating solutions that solve vital technical problems in the financial and healthcare domains.
 
 - 📫 How to reach me **shivumpandove@gmail.com**
 
